@@ -14,6 +14,8 @@
 
 ## 🍎 iPhone (Shadowrocket)
 
+![demo](happ.jpeg)
+
 ### 1. Установите приложение
 Скачайте **Shadowrocket** из App Store.
 
