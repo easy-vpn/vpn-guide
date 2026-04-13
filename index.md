@@ -32,10 +32,13 @@
    ![demo](happ.jpeg)
 
    ### Streisand
-   ![demo](happ.jpeg)
+   ![demo](Инструкция Streisand.jpg)
 
    ### v2RayTun
-   ![demo](happ.jpeg)
+   ![demo](v2RayTun.jpeg)
+
+   ### Hiddify
+   ![demo](hiddify.png)
 
 ### Шаг 4 — Подключитесь
 1. Выберите любой сервер из списка
