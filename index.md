@@ -29,16 +29,16 @@
 3. Вставьте ключ
 
    ### Happ
-   ![demo](happ.jpeg)
+   
 
    ### Streisand
    ![demo](Инструкция Streisand.jpg)
 
    ### v2RayTun
-   ![demo](v2RayTun.jpeg)
+   
 
    ### Hiddify
-   ![demo](hiddify.png)
+   
 
 ### Шаг 4 — Подключитесь
 1. Выберите любой сервер из списка
