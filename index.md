@@ -4,17 +4,18 @@
 
 ---
 ### Шаг 1 — Установить приложение
-Выберите ваше устройство и установите приложение:
+Выберите ваше устройство и установите приложение Happ:
 - 🍎 iPhone / iPad / Mac → [ссылка](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
-- 🤖 Android → [ссылка](https://play.google.com/store/apps/details?id=com.v2raytun.android)
-- 💻 Windows → [ссылка](https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Windows-Setup-x64.exe)
+- 🤖 Android → [ссылка](https://play.google.com/store/apps/details?id=com.happproxy)
+- 💻 Windows → [ссылка](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
-💡 Также вы можете использовать другие приложения, например:
-- Streisand
+💡 Также вы можете использовать другие приложения (но мы рекомендуем именно приложение Happ), например:
 - v2RayTun
+- Streisand
+- Hiddify
 
 ### Шаг 2 — Получить ключ
-Если у вас еще нет своего ключа, то откройте нашего бота @vpn_easy_bot в Telegram, воспользуйтесь командой `/start`, получите ключ.
+Если у вас еще нет своего ключа, то откройте нашего бота @vpn_easy_bot в Telegram по [ссылке](https://t.me/vpn_easy_bot?start=), воспользуйтесь командой `/start`, получите ключ.
 
 Скопируйте его ПОЛНОСТЬЮ.
 
