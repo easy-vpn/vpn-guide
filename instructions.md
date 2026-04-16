@@ -4,13 +4,13 @@
 ### Happ
    ![demo](happ.jpeg)
 
-   ### v2RayTun
+### v2RayTun
    ![demo](v2RayTun.jpeg)
 
-   ### Streisand
+### Streisand
    ![demo](streisand.jpeg)
 
-   ### Hiddify
+### Hiddify
    ![demo](hiddify.png)
 
 ## 🔙 Вернуться к инструкции
