@@ -34,16 +34,9 @@
 3. Вставьте ключ
 
    ### Happ
+   Инструкция для других приложений [тут](instructions.md)
+   
    ![demo](happ.jpeg)
-
-   ### v2RayTun
-   ![demo](v2RayTun.jpeg)
-
-   ### Streisand
-   ![demo](streisand.jpeg)
-
-   ### Hiddify
-   ![demo](hiddify.png)
 
 ### Шаг 4 — Подключитесь
 1. Выберите любой сервер из списка
