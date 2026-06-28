@@ -4,12 +4,14 @@
 
 ---
 ### Шаг 1 — Установить приложение
-Выберите ваше устройство и установите приложение Happ:
-- 🍎 iPhone / iPad / Mac → [ссылка](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+Выберите ваше устройство и установите приложение:
+- 🍎 iPhone / iPad / Mac → [ссылка](https://apps.apple.com/ru/app/incy/id6756943388)
 - 🤖 Android → [ссылка](https://play.google.com/store/apps/details?id=com.happproxy)
 - 💻 Windows → [ссылка](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
-💡 Также вы можете использовать другие приложения (но мы рекомендуем именно приложение Happ), например:
+💡 Мы рекомендуем пользоваться приложениями по ссылкам выше, но вы можете использовать и другие приложения. Для нашего vpn подходят:
+- incy
+- Happ
 - v2RayTun
 - Streisand
 - Hiddify
