@@ -6,7 +6,7 @@
 ### Шаг 1 — Установить приложение
 Выберите ваше устройство и установите приложение:
 - 🍎 iPhone / iPad / Mac → [ссылка](https://apps.apple.com/ru/app/incy/id6756943388)
-- 🤖 Android → [ссылка](https://play.google.com/store/apps/details?id=com.happproxy)
+- 🤖 Android → [ссылка](https://play.google.com/store/apps/details?id=llc.itdev.incy&hl=ru)
 - 💻 Windows → [ссылка](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
 
 💡 Мы рекомендуем пользоваться приложениями по ссылкам выше, но вы можете использовать и другие приложения. Для нашего vpn подходят:
