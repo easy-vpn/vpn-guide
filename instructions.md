@@ -1,6 +1,9 @@
 # ⚙️ Фото-инструкция для приложений
 ---
 
+### INCY
+   ![demo](incy.jpeg)
+   
 ### Happ
    ![demo](happ.jpeg)
 
